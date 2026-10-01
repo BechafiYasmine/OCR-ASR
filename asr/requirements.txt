@@ -1,0 +1,6 @@
+openai-whisper
+librosa
+soundfile
+numpy
+noisereduce
+jiwer
